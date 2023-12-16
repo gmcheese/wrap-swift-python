@@ -1,0 +1,4 @@
+# https://pybind11.readthedocs.io/en/stable/compiling.html?highlight=setup.py#pep-518-requirements-pip-10-required
+[build-system]
+requires = ["setuptools>=42", "wheel", "pybind11~=2.6.1"]
+build-backend = "setuptools.build_meta"
